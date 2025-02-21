@@ -2,7 +2,7 @@
 
 # GoPay
 
-### 微信、支付宝、QQ、通联支付、拉卡拉、PayPal 的 Golang 版本SDK
+### 微信、支付宝、QQ、通联支付、拉卡拉、PayPal、扫呗、Apple支付的 Golang 版本SDK
 
 [![Github](https://img.shields.io/github/followers/iGoogle-ink?label=Follow&style=social)](https://github.com/iGoogle-ink)
 [![Github](https://img.shields.io/github/forks/go-pay/gopay?label=Fork&style=social)](https://github.com/go-pay/gopay/fork)
@@ -112,4 +112,4 @@ func main() {
 <br>
 [<img src=".github/jetbrains.png" width="300"/>](https://www.jetbrains.com/?from=gopay)
 
-> Copyright © 2000-2024 JetBrains s.r.o. JetBrains and the JetBrains logo are registered trademarks of JetBrains s.r.o.
+> Copyright © 2025 JetBrains s.r.o. JetBrains and the JetBrains logo are trademarks of JetBrains s.r.o.
